@@ -1,7 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\bin\Debug\Percolation.exe
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\bin\Debug\Percolation.pdb
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\obj\x86\Debug\Percolation.PercolationVisualizerForm.resources
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\obj\x86\Debug\Percolation.Properties.Resources.resources
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\obj\x86\Debug\Percolation.csproj.GenerateResource.Cache
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\obj\x86\Debug\Percolation.exe
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Percolation\Percolation\obj\x86\Debug\Percolation.pdb
